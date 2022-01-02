@@ -1,2 +1,2 @@
 # BN-HTR
-This repository is based on the work done for the UnBangla Handwritten Line Segmentation
+This repository is based on the work done for the Bangla Handwritten Line Segmentation
