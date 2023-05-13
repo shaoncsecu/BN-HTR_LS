@@ -20,12 +20,12 @@ For any further query, feel free to contact: nazifactg10@gmail.com
  #### Paper Information
  ```ruby
 @incollection{rahman2023bn,
- title={BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR) and Line Segmentation},
- author={Rahman, Md Ataur and Tabassum, Nazifa and Paul, Mitu and Pal, Riya and Islam, Mohammad Khairul},
- booktitle={Computer Vision and Image Analysis for Industry 4.0},
- pages={1--16},
- year={2023},
- publisher={CRC Press 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742}
+  title={BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR) and Line Segmentation},
+  author={Rahman, Md Ataur and Tabassum, Nazifa and Paul, Mitu and Pal, Riya and Islam, Mohammad Khairul},
+  booktitle={Computer Vision and Image Analysis for Industry 4.0},
+  pages={1--16},
+  year={2023},
+  publisher={CRC Press 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742}
 }
 ```
 
